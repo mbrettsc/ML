@@ -17,7 +17,7 @@ float rand_float()
 {
     return (float) rand() / (float) RAND_MAX;
 }
-
+//mse func
 float cost(float w, float b)
 {
     float result = 0.0f;
