@@ -1,5 +1,5 @@
-NAME = main
-SRC = main.c
+NAME = xor
+SRC = xor.c
 CC = gcc -std=c11
 CFLAG = -Wall -Wextra 
 
